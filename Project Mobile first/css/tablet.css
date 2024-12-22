@@ -1,0 +1,87 @@
+header {
+  height: 430px;
+}
+header img {
+  width: 150px;
+  height: 24px;
+  margin-top: 30px;
+  align-self: center;
+}
+.header--title-container h1 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.header--title-container p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.header--title-container .header--button {
+  top: 370px;
+}
+.main-exchange-container h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.main-exchange-container p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.main-exchange-container .update-date {
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+}
+.main-tables-container {
+  display: flex;
+  width: 768px;
+  margin: 0 auto;
+  justify-content: space-evenly;
+  overflow: hidden;
+}
+.main-currency-table {
+  min-width: 300px;
+  height: 360px;
+  margin: 0;
+}
+.product-detail--title h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.product-detail--title p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.product-cards--container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 748px;
+  margin: 0 auto;
+}
+.product-detail--card {
+  max-width: 360px;
+  margin: 7px;
+}
+.bitcoin-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-width: 320px;
+  height: 40vh;
+  background-image: url("../assets/imgs/bitcoinbaby2.jpg");
+}
+.bitcoin-img-container h2 {
+  padding: 0;
+  font-size: 4rem;
+}
+.plans--title h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.plans--title p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.plans-container--slider {
+  justify-content: center;
+  overflow: hidden;
+}
